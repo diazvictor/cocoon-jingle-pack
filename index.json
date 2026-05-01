@@ -1,6 +1,6 @@
 {
   "name": "My Jingle Pack",
-  "entries": [
+  "gba": [
     {
       "name": "Advance Wars",
       "file": "jingles/gba/advance-wars.ogg"
@@ -13,5 +13,11 @@
       "name": "Harvest Moon - Friends of Mineral Town",
       "file": "jingles/gba/harvest-moon-friends-of-mineral-town.ogg"
     }
+  ],
+  "psp": [
+    {
+      "name": "Monster Hunter Portable 3rd",
+      "file": "jingles/psp/monster-hunter-portable-3rd.ogg"
+    },
   ]
 }
