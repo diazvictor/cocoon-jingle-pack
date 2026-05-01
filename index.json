@@ -1,13 +1,17 @@
 {
-  "name": "Example Jingle Pack",
-  "entries": [
+  "name": "My Jingle Pack",
+  "gba": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "name": "Advance Wars",
+      "file": "jingles/gba/advance-wars.m4a"
     },
     {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
+      "name": "Castlevania - Circle of the Moon",
+      "file": "jingles/gba/castlevania-circle-of-the-moon.ogg"
+    },
+    {
+      "name": "Harvest Moon - Friends of Mineral Town",
+      "file": "jingles/gba/harvest-moon-friends-of-mineral-town-town.m4a"
     }
   ]
 }
