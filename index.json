@@ -12,7 +12,11 @@
     {
       "name": "Harvest Moon - Friends of Mineral Town",
       "file": "jingles/gba/harvest-moon-friends-of-mineral-town.ogg"
-    }
+    },
+    {
+      "name": "Pokemon Emerald",
+      "file": "jingles/gba/pokemon-emerald.ogg"
+    },
   ],
   "psp": [
     {
