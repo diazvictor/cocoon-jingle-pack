@@ -76,6 +76,10 @@
     {
       "name": "Kirby Super Star",
       "file": "jingles/snes/kirby-super-star.ogg"
+    },
+    {
+      "name": "Tales of Phantasia",
+      "file": "jingles/snes/tales-of-phantasia.ogg"
     }
   ]
 }
