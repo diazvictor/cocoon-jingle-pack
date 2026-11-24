@@ -16,6 +16,14 @@
     {
       "name": "Pokemon - Emerald Version",
       "file": "jingles/gba/pokemon-emerald.ogg"
+    },
+    {
+      "name": "Shining Soul",
+      "file": "jingles/gba/shining-soul.ogg"
+    },
+    {
+      "name": "The Legend of Zelda - The Minish Cap",
+      "file": "jingles/gba/the-legend-of-zelda-minish-cap.ogg"
     }
   ],
   "psp": [
