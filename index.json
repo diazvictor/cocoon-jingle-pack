@@ -20,8 +20,28 @@
   ],
   "psp": [
     {
+      "name": "Daxter",
+      "file": "jingles/psp/daxter.ogg"
+    },
+    {
+      "name": "Fat Princess",
+      "file": "jingles/psp/fat-princess.ogg"
+    },
+    {
+      "name": "Grand Theft Auto - Chinatown Wars",
+      "file": "jingles/psp/grand-theft-auto-chinatown-wars.ogg"
+    },
+    {
+      "name": "Monster Hunter Freedom Unite",
+      "file": "jingles/psp/monster-hunter-freedom-unite.ogg"
+    },
+    {
       "name": "Monster Hunter Portable 3rd",
       "file": "jingles/psp/monster-hunter-portable-3rd.ogg"
+    },
+    {
+      "name": "The 3rd Birthday",
+      "file": "jingles/psp/the-3rd-birthday.ogg"
     }
   ],
   "snes": [
