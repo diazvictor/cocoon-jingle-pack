@@ -89,5 +89,23 @@
       "name": "Tales of Phantasia",
       "file": "jingles/snes/tales-of-phantasia.ogg"
     }
+  ],
+  "ports": [
+    {
+      "name": "Don't Starve",
+      "file": "jingles/ports/dont-starve.ogg"
+    },
+    {
+      "name": "Stardew Valley",
+      "file": "jingles/ports/stardew-valley.ogg"
+    },
+    {
+      "name": "Titan Quest",
+      "file": "jingles/ports/titan-quest.ogg"
+    },
+    {
+      "name": "Unreal Tournament 99",
+      "file": "jingles/ports/ut99.ogg"
+    }
   ]
 }
